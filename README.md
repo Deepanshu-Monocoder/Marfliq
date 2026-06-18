@@ -22,6 +22,15 @@ https://marfliq.in/
 * JavaScript
 * Razorpay Integration
 
-## Author
+## Screenshots
 
-Deepanshu Kumar
+<table>
+<tr>
+<td align="center"><b>Desktop View</b></td>
+<td align="center"><b>Mobile View</b></td>
+</tr>
+<tr>
+<td><img src="marfliq.png" width="700"></td>
+<td><img src="marfliq-mobile.png" width="200"></td>
+</tr>
+</table>
